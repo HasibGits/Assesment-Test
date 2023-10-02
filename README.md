@@ -3,7 +3,7 @@
 # Multiple Videos PiP Web Page
 
 This repository contains a web page that displays multiple videos and enables Picture-in-Picture (PiP) functionality for each video when they go out of the viewport. Users can also play, pause, and mute the videos in PiP mode.
-
+## kindly refresh the browser if it doesn't work properly
 ## Prerequisites
 
 - A modern web browser that supports the Picture-in-Picture API (e.g., Chrome, Firefox, Safari).
